@@ -1,11 +1,11 @@
 body {
-    background-color: #e3e3e9;
+    background-color: #FFFFFF;
     font-family: 'Roboto Condensed', sans-serif;
     color: #002642;
 }
 
 .mdl-layout__header {
-    background-color: #420039;
+    background-color: #33002C;
 }
 
 .mdl-layout__header-row {
@@ -22,7 +22,7 @@ body {
 }
 
 .mdl-mini-footer {
-    background-color: #002642;
+    background-color: #00121F;
     color: #81919d;
 }
 
